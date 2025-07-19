@@ -13,6 +13,14 @@
     src: url('/assets/fonts/CinzelDecorative-Bold.ttf') format('truetype');
 }
 
+/* TEMPORARY TEST - Remove this later */
+.test-font {
+    font-family: 'Cinzel Decorative', serif !important;
+    font-size: 2rem !important;
+    color: red !important;
+    font-weight: 700 !important;
+}
+
 
 /* Global Variables */
 :root{
